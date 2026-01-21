@@ -13,7 +13,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/1424387?v=4
 source:
   project: https://github.com/keboola/mcp-server
-  commit: f99a891da16716d522f9a863ec1344f7985ab815
+  commit: f5d0099dcdfc14ece2e117a125ce0b90bb8b0782
 config:
   description: Configure the connection to your Keboola project
   secrets:
